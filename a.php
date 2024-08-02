@@ -37,3 +37,4 @@ foreach ($countries as $countryCode) {
 	}
 
 ?>
+php a.php 0814159546 SMS
